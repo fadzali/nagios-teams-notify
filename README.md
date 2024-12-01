@@ -1,3 +1,7 @@
+# nagios-teams-notify-bugs
+![image](https://github.com/user-attachments/assets/b0e61f0e-b9bb-4767-aa96-aca5328fe49d)
+https://learn.microsoft.com/en-gb/microsoftteams/m365-custom-connectors#update-connectors-url
+
 # nagios-teams-notify
 Send Nagios alerts to a Microsoft Teams channel
 
